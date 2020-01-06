@@ -3,7 +3,10 @@ import java.util.Scanner;
 public class Sudoku {
 
         public static void main(String args[]) {
-            Scanner input = new Scanner(System.in);
+            /*Scanner input = new Scanner(System.in);
+             Intended for future use
+
+             */
             System.out.println("The following program solves 9x9 sudoku puzzles");
             System.out.println("Instructions: \n"+"Order of entering values\n" +
                     "1  | 2  |  3 | 4  | 5  | 6  |  7 |  8 |  9\n" +

@@ -16,7 +16,7 @@ public class Sudoku {
                     "Follow this order when entering the values of the puzzle\n" +
                     "NB: Where a value is not given in the puzzle enter zero, 0\n"
                   );
-            //Method containing values
+           
             new Sudoku((new int[][]{
                     {3, 0, 6, 5, 0, 8, 4, 0, 0},
                     {5, 2, 0, 0, 0, 0, 0, 0, 0},
